@@ -95,7 +95,6 @@ int is_empty() {
 
 int main() {
 
-    int stack[6];
     int value;
     int choice;
     int element;
